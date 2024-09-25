@@ -1,0 +1,20 @@
+.cabecalho-moda{
+    background-color: #BB86FC;
+}
+
+.produtos,.produtos-2{
+    background-color: #424250;
+}
+
+.valor-final,.valor-final-2{
+    background-color: brown;
+}
+
+.cabecalho-casa{
+    background-color: #00C4B4;
+}
+
+.tabela{
+    margin: 20px;
+    color: azure;
+}
